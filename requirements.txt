@@ -1,0 +1,9 @@
+pip>=21.0
+setuptools>=65.0
+wheel>=0.40.0
+numpy==1.24.3
+opencv-python==4.8.1.78
+Pillow==10.0.1
+tensorflow==2.13.0
+keras==2.13.1
+deepface==0.0.89
